@@ -67,18 +67,18 @@ Leaving the park behind, I made the roads. I made a prefab of a road using only 
  ![roadprefab](https://user-images.githubusercontent.com/100948882/224730218-bdb7da63-936d-4253-ae58-3a0e4467c49c.png)
  ![roads_screenshot](https://user-images.githubusercontent.com/100948882/224730401-1fdc357e-247f-4727-bbf0-2acd75026036.png)
 
-I organised the road to 2 sections: the AVES that are parallel and are only 2, at the edges of the city
+I organised the road to 2 sections: the AVES that are parallel and are only 2, at the edges of the city/n
  ![aves_screenshot](https://user-images.githubusercontent.com/100948882/224730582-424b61ba-411c-4cdd-b564-db8a8e4e4433.png)
-and the streets, that are too parallel between them with one vertical
+and the streets, that are too parallel between them with one vertical/n
 ![streets_screenshot](https://user-images.githubusercontent.com/100948882/224730761-a0134350-e305-4ab6-bb16-4def08b9d94a.png)
 
 I made some pedestrian crossings using planes and assigned them to their parents ave or street they belong to
 ![road_close_up](https://user-images.githubusercontent.com/100948882/224731035-df9ce775-702b-4b87-921c-4f04622eba9b.png)
 
-In one ave I made 2 bus lanes using again duplicated planes with a red color material.
-![road_with_bus](https://user-images.githubusercontent.com/100948882/224731293-d24f4eb1-3bcd-4c23-881a-3eaab01a675f.png
+In one ave I made 2 bus lanes using again duplicated planes with a red color material./n
+![road_with_bus](https://user-images.githubusercontent.com/100948882/224731293-d24f4eb1-3bcd-4c23-881a-3eaab01a675f.png)
 
-And now for the last propr I imported from the Asset Store are the cars and buses. I probably used 2 models of cars and I made some variations of them by assigning them a specific color; ex white car, blue car, yellow car (taxi), black car and so on. The bus model I painted it with a blue color material.
+And now for the last propr I imported from the Asset Store are the cars and buses. I probably used 2 models of cars and I made some variations of them by assigning them a specific color; ex white car, blue car, yellow car (taxi), black car and so on. The bus model I painted it with a blue color material./n
 ![models_cars](https://user-images.githubusercontent.com/100948882/224732575-24ed66d9-8bff-44f7-94ea-49810e2eb044.png)
 ![cars_all](https://user-images.githubusercontent.com/100948882/224731726-49365058-9b77-46dd-9199-8f7bc91040cd.png)
 ![bus_screenshot](https://user-images.githubusercontent.com/100948882/224732451-ef221660-141b-48fd-89f7-ee16a88390f6.png)

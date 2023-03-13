@@ -67,9 +67,9 @@ Leaving the park behind, I made the roads. I made a prefab of a road using only 
  ![roadprefab](https://user-images.githubusercontent.com/100948882/224730218-bdb7da63-936d-4253-ae58-3a0e4467c49c.png)
  ![roads_screenshot](https://user-images.githubusercontent.com/100948882/224730401-1fdc357e-247f-4727-bbf0-2acd75026036.png)
 
-I organised the road to 2 sections: the AVES that are parallel and are only 2, at the edges of the city/n
- ![aves_screenshot](https://user-images.githubusercontent.com/100948882/224730582-424b61ba-411c-4cdd-b564-db8a8e4e4433.png)
-and the streets, that are too parallel between them with one vertical/n
+I organised the road to 2 sections: the AVES that are parallel and are only 2, at the edges of the city
+<br> ![aves_screenshot](https://user-images.githubusercontent.com/100948882/224730582-424b61ba-411c-4cdd-b564-db8a8e4e4433.png)
+<br>and the streets, that are too parallel between them with one vertical/n
 ![streets_screenshot](https://user-images.githubusercontent.com/100948882/224730761-a0134350-e305-4ab6-bb16-4def08b9d94a.png)
 
 I made some pedestrian crossings using planes and assigned them to their parents ave or street they belong to

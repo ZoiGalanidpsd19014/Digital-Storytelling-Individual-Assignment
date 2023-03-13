@@ -17,7 +17,16 @@ So as I said before, this is an animation project using the Unity programm. The 
 
 <strong>UNIT_2</strong>
 
-Regarding the first deliverable, i started it right away in the class, I mean using the Unit1_StarterFiles. I made some buildings here and there using the ProBuilder tool as described in the UNIT2 tutorials we were using in our class. At home, i made more buildings and used the ProBuilder to make their shapes more complex, with different sizes, edges, faces. At the same time, i downloaded some images (jpg) from the interet for the texture/material i was going to put on the buildings to make them look more like "buildings" for ex. having windows. I made the materials with the images in unity and put them in the asset/materials folder. ![textures_screenshot](https://user-images.githubusercontent.com/100948882/224665241-72459271-388f-4a42-b85e-aac6fcd61d18.png)
+Regarding the first deliverable, i started it right away in the class, I mean using the Unit1_StarterFiles. I made some buildings here and there using the ProBuilder tool as described in the UNIT2 tutorials we were using in our class. At home, i made more buildings and used the ProBuilder to make their shapes more complex, with different sizes, edges, faces.
+![buildning_fallijg](https://user-images.githubusercontent.com/100948882/224665876-bb1b0fb9-ca80-4fb7-b79f-829db395182c.png)
+![bulding_crooked_top](https://user-images.githubusercontent.com/100948882/224665911-e3739367-5c78-4c8f-9566-91dba7323eaa.png)
+![empire_state2](https://user-images.githubusercontent.com/100948882/224665964-1d0a988b-0bfc-4f6e-89e6-b5c923ae10ba.png)
+![tower2](https://user-images.githubusercontent.com/100948882/224666041-b87895e8-9527-4d70-9977-65cf85de6118.png)
+![tower](https://user-images.githubusercontent.com/100948882/224666067-1b7f4079-66d1-4500-afe8-cb53f82e4ece.png)
+
+At the same time, i downloaded some images (jpg) from the interet for the texture/material i was going to put on the buildings to make them look more like "buildings" for ex. having windows. I made the materials with the images in unity and put them in the asset/materials folder. ![textures_screenshot](https://user-images.githubusercontent.com/100948882/224665241-72459271-388f-4a42-b85e-aac6fcd61d18.png)
+![materials_screenshot](https://user-images.githubusercontent.com/100948882/224666207-5d137bd2-770e-4553-8c09-f5951a44f9d7.png)
+
 Then i started applying the materials to the buildings. Since i had made a lot of buildings with different sizes, I had to duplicate the same materials on or two times in order to change the tiling that seemed more aproppriate for the specific building- in order to make you understand a material with x tiling to a tall building looked streched/compressed/ dissorted to another shorter building. So i had to make a mataerial for the tall, and another woth different tiling for the other and so on. Also i played a little with the offset of the material in order to match where the texture is more realistic to be. In some buildings I also made a base with a plain color material to indicate 'this is the ground floor' but i honestly didn't do it for all the buildings. As i was making the buildings i tried to make stairs and doors for them but unfortunately they were too big for the ratio i was trying to achieve, so i didn't put any doors (imagine that a door from the probuilder at the smallest size looked huge for the bulding/material.
 
 
@@ -28,6 +37,11 @@ I rotated the building, changed the scale however i wanted to but tried to make 
 
  For the 2nd part, i started making the props i was going to use. The first prop i created was the watertank. In NYC you will notice that some buildings have watertanks on the roof, so i went and made that.
  
+ ![watertank_top_screenshot](https://user-images.githubusercontent.com/100948882/224666309-97cceff1-9e98-4970-aaa3-ff691bc8fb8c.png)
+ ![watertank_screenchot](https://user-images.githubusercontent.com/100948882/224666340-d05a185f-f2a6-44a0-ae05-5934495f9f4f.png)
+![watertank_with_materials](https://user-images.githubusercontent.com/100948882/224666355-c3b4ea87-e6a5-4048-a79c-6b338bb0956d.png)
+
+ ====TO BE CONTINUED ======
  
  
  

@@ -15,7 +15,7 @@ So as I said before, this is an animation project using the Unity programm. The 
 
 # 1st Deliverable
 
-<strong>UNIT_2</strong>
+<h1><strong>UNIT_2</strong><h1>
 
 Regarding the first deliverable, i started it right away in the class, I mean using the Unit1_StarterFiles. I made some buildings here and there using the ProBuilder tool as described in the UNIT2 tutorials we were using in our class. At home, i made more buildings and used the ProBuilder to make their shapes more complex, with different sizes, edges, faces.
 ![buildning_fallijg](https://user-images.githubusercontent.com/100948882/224665876-bb1b0fb9-ca80-4fb7-b79f-829db395182c.png)

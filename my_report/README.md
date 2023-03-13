@@ -15,7 +15,7 @@ So as I said before, this is an animation project using the Unity programm. The 
 
 # 1st Deliverable
 
-<h1><strong>UNIT_2</strong><h1>
+<h2><strong>UNIT_2</strong></h2>
 
 Regarding the first deliverable, i started it right away in the class, I mean using the Unit1_StarterFiles. I made some buildings here and there using the ProBuilder tool as described in the UNIT2 tutorials we were using in our class. At home, i made more buildings and used the ProBuilder to make their shapes more complex, with different sizes, edges, faces.
 ![buildning_fallijg](https://user-images.githubusercontent.com/100948882/224665876-bb1b0fb9-ca80-4fb7-b79f-829db395182c.png)
@@ -33,7 +33,7 @@ Then i started applying the materials to the buildings. Since i had made a lot o
 So i duplicated a lot of the buildings I've madeand started putting them in blocks like multi-highrises. (there is a big mixup with the nams in hierarchy bc i did blocks of buildings and not multihighrises so i will solve this later).
 I rotated the building, changed the scale however i wanted to but tried to make them all have the same distance from the road -I'll explain it in the 2nd deliverable- in order to make the idea that there is a pavement between the buildings and the roads.
 
-<strong>UNIT_3</strong>
+<h2><strong>UNIT_3</strong></h2>
 
  For the 2nd part, i started making the props i was going to use. The first prop i created was the watertank. In NYC you will notice that some buildings have watertanks on the roof, so i went and made that. I used basic shapes like cylinders and cubes and wtih a little roating, scaling and placements i made the base that consists of the legs (cubes), the main body (cylinder with a notch upwards like a cone) and the ladder (cylinders).
  

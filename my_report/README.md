@@ -11,9 +11,10 @@
 
 # Summary
 
-So as I said before, this is an animation project using the Unity programm. The theme I was going for is a city resembling NYC. If you'll look at the mp4 videos of each deliverable you will see that some props that were not supposed to be there for the 1st deliverable are shown, that's because I went ahead and started putting props and details that are not required for the requirements for the 1st deliverable. Makes sense? Basically I stayed and built a lot of stuff before i made the 1st mp4.![buildings_screenshot2](https://user-images.githubusercontent.com/100948882/224729836-746a3a69-9dec-4bcb-b7db-8fa6a9fee748.png)
+So as I said before, this is an animation project using the Unity programm. The theme I was going for is a city resembling NYC. If you'll look at the mp4 videos of each deliverable you will see that some props that were not supposed to be there for the 1st deliverable are shown, that's because I went ahead and started putting props and details that are not required for the requirements for the 1st deliverable. Makes sense? Basically I stayed and built a lot of stuff before i made the 1st mp4.
+<br>![buildings_screenshot2](https://user-images.githubusercontent.com/100948882/224729836-746a3a69-9dec-4bcb-b7db-8fa6a9fee748.png)<br>
 
-![top](https://user-images.githubusercontent.com/100948882/224729877-dce1c00c-112b-4aa2-8537-2610513286e2.png)
+<br>![top](https://user-images.githubusercontent.com/100948882/224729877-dce1c00c-112b-4aa2-8537-2610513286e2.png)<br>
 
 # 1st Deliverable
 

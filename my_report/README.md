@@ -24,18 +24,18 @@ Regarding the first deliverable, i started it right away in the class, I mean us
 ![tower2](https://user-images.githubusercontent.com/100948882/224666041-b87895e8-9527-4d70-9977-65cf85de6118.png)
 ![tower](https://user-images.githubusercontent.com/100948882/224666067-1b7f4079-66d1-4500-afe8-cb53f82e4ece.png)
 
-At the same time, i downloaded some images (jpg) from the interet for the texture/material i was going to put on the buildings to make them look more like "buildings" for ex. having windows. I made the materials with the images in unity and put them in the asset/materials folder. ![textures_screenshot](https://user-images.githubusercontent.com/100948882/224665241-72459271-388f-4a42-b85e-aac6fcd61d18.png)
+At the same time, i downloaded some images (jpg) from the interet for the texture/material i was going to put on the buildings to make them look more like "buildings" for ex. having windows. I made the materials with the images in unity and put them in the asset/materials folder. 
 ![materials_screenshot](https://user-images.githubusercontent.com/100948882/224666207-5d137bd2-770e-4553-8c09-f5951a44f9d7.png)
 
 Then i started applying the materials to the buildings. Since i had made a lot of buildings with different sizes, I had to duplicate the same materials on or two times in order to change the tiling that seemed more aproppriate for the specific building- in order to make you understand a material with x tiling to a tall building looked streched/compressed/ dissorted to another shorter building. So i had to make a mataerial for the tall, and another woth different tiling for the other and so on. Also i played a little with the offset of the material in order to match where the texture is more realistic to be. In some buildings I also made a base with a plain color material to indicate 'this is the ground floor' but i honestly didn't do it for all the buildings. As i was making the buildings i tried to make stairs and doors for them but unfortunately they were too big for the ratio i was trying to achieve, so i didn't put any doors (imagine that a door from the probuilder at the smallest size looked huge for the bulding/material.
-
+![textures_screenshot](https://user-images.githubusercontent.com/100948882/224665241-72459271-388f-4a42-b85e-aac6fcd61d18.png)
 
 So i duplicated a lot of the buildings I've madeand started putting them in blocks like multi-highrises. (there is a big mixup with the nams in hierarchy bc i did blocks of buildings and not multihighrises so i will solve this later).
 I rotated the building, changed the scale however i wanted to but tried to make them all have the same distance from the road -I'll explain it in the 2nd deliverable- in order to make the idea that there is a pavement between the buildings and the roads.
 
 <strong>UNIT_3</strong>
 
- For the 2nd part, i started making the props i was going to use. The first prop i created was the watertank. In NYC you will notice that some buildings have watertanks on the roof, so i went and made that.
+ For the 2nd part, i started making the props i was going to use. The first prop i created was the watertank. In NYC you will notice that some buildings have watertanks on the roof, so i went and made that. I used basic shapes like cylinders and cubes and wtih a little roating, scaling and placements i made the base that consists of the legs (cubes), the main body (cylinder with a notch upwards like a cone) and the ladder (cylinders).
  
  ![watertank_top_screenshot](https://user-images.githubusercontent.com/100948882/224666309-97cceff1-9e98-4970-aaa3-ff691bc8fb8c.png)
  ![watertank_screenchot](https://user-images.githubusercontent.com/100948882/224666340-d05a185f-f2a6-44a0-ae05-5934495f9f4f.png)

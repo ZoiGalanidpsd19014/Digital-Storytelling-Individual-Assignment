@@ -85,13 +85,16 @@ I rotated the building, changed the scale however i wanted to but tried to make 
 <br>In one ave I made 2 bus lanes using again duplicated planes with a red color material.
 ![road_with_bus](https://user-images.githubusercontent.com/100948882/224731293-d24f4eb1-3bcd-4c23-881a-3eaab01a675f.png)
 
-<br>And now for the last propr I imported from the Asset Store are the cars and buses. I probably used 2 models of cars and I made some variations of them by assigning them a specific color; ex white car, blue car, yellow car (taxi), black car and so on. The bus model I painted it with a blue color material.
+<br>And now for the other props I imported from the Asset Store are the cars and buses. I probably used 2 models of cars and I made some variations of them by assigning them a specific color; ex white car, blue car, yellow car (taxi), black car and so on. The bus model I painted it with a blue color material.
 <br>![models_cars](https://user-images.githubusercontent.com/100948882/224732575-24ed66d9-8bff-44f7-94ea-49810e2eb044.png)
 <br>![cars_all](https://user-images.githubusercontent.com/100948882/224731726-49365058-9b77-46dd-9199-8f7bc91040cd.png)
 <br>![bus_screenshot](https://user-images.githubusercontent.com/100948882/224732451-ef221660-141b-48fd-89f7-ee16a88390f6.png)
 
 
+<br>The prop that I made myself using Blender is the street light.
 
+
+![Στιγμιότυπο οθόνης 2023-03-15 110751](https://user-images.githubusercontent.com/100948882/225260744-ec2b2950-6fe9-4951-9783-2959aad2c428.png)
 
 
 

@@ -96,6 +96,7 @@ I rotated the building, changed the scale however i wanted to but tried to make 
 
 ![Στιγμιότυπο οθόνης 2023-03-15 110751](https://user-images.githubusercontent.com/100948882/225260744-ec2b2950-6fe9-4951-9783-2959aad2c428.png)
 
+<br>I imported it to Unity and into the scene. I made a spotlight under the lamp and duplicated it to the near and oppossite street.<br>
 
 
 

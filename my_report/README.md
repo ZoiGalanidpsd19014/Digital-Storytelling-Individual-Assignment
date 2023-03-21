@@ -91,12 +91,18 @@ I rotated the building, changed the scale however i wanted to but tried to make 
 <br>![bus_screenshot](https://user-images.githubusercontent.com/100948882/224732451-ef221660-141b-48fd-89f7-ee16a88390f6.png)
 
 
+<br> The props for the people/humans are from the Unit4 files 'HumanoidBody'. I placed them to the asset files and then placed them in my scene. I placed them at the x,y,z points I wanted and placed them in the animation clip. I changed the track offset to scene, and then I dragged the animation from the same folder to the body.
+
+
 <br>The prop that I made myself using Blender is the street light.
 
 
 ![Στιγμιότυπο οθόνης 2023-03-15 110751](https://user-images.githubusercontent.com/100948882/225260744-ec2b2950-6fe9-4951-9783-2959aad2c428.png)
 
 <br>I imported it to Unity and into the scene. I made a spotlight under the lamp and duplicated it to the near and oppossite street.<br>
+
+
+
 
 
 

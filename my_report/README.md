@@ -91,7 +91,9 @@ I rotated the building, changed the scale however i wanted to but tried to make 
 <br>![bus_screenshot](https://user-images.githubusercontent.com/100948882/224732451-ef221660-141b-48fd-89f7-ee16a88390f6.png)
 
 
-<br> The props for the people/humans are from the Unit4 files 'HumanoidBody'. I placed them to the asset files and then placed them in my scene. I placed them at the x,y,z points I wanted and placed them in the animation clip. I changed the track offset to scene, and then I dragged the animation from the same folder to the body.
+<br> The props for the people/humans are from the Unit4 files 'HumanoidBody'. I placed them to the asset files and then placed them in my scene. I put the models at the x,y,z points I wanted in my scene and then placed them as animation clips to the timeline. I changed the track offsets to scene offsets, and then I put the animation from the same folder (HumanoidWalk) to the Animation Clip.  din't need to do an override animation with this model, since they already moved the way I wanted.<br>
+<br>![humans](https://user-images.githubusercontent.com/100948882/227129684-d3bf81ab-3fe6-423a-8868-6d940efad6f1.png)<br>
+
 
 
 <br>The prop that I made myself using Blender is the street light.

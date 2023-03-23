@@ -103,6 +103,8 @@ I rotated the building, changed the scale however i wanted to but tried to make 
 
 <br>I imported it to Unity and into the scene. I made a spotlight under the lamp and duplicated it to the near and oppossite street.<br>
 
+<br>![lightsstreet](https://user-images.githubusercontent.com/100948882/227129992-f62d6dcc-6022-4f62-b11a-45ca45019e8d.png)<br>
+
 
 
 

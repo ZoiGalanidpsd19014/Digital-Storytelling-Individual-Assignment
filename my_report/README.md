@@ -126,10 +126,22 @@ https://user-images.githubusercontent.com/100948882/228452118-d6cea705-4374-4534
 
 # 2nd Deliverable
 
+<br>LIGHTS<br>
 
+<br>For the second deliverable, I started with the lights from Unit 6. I deleted the directional light from the scene, but even then, the lighting was not as dark as i wanted, so I went Window>Rendering>Lighting>Environment to change the settings there and chose an environment that was darker, like the one used in the class's units. After that, I closed the light bulb from the scene and started adding lights to my scene. I made a folder named LIGHTS and started by adding point lights. I made a few, played with the range, color and intensity and put them at the streets close to the buildings. I made sure to change the setting from auto to important because else the light would not show in the scene.<br>
 
-# 3rd Deliverable 
+<br>I changed the spotlights in the bulbs with the same mindset, changing the range and the lens? and casting the setting to important. I had a problem with this, as the lights would not show everytime, seeing it was affected by each other. So that is why some lights show and some not.<br>
 
+<br>VFX<br>
+
+<br>For the VFX I used both methods shown in the unit7 tutorial. I made a VFX file in the assets and one in the hierarchy. I wanted to make a smoke particle, so I followed the tutorial (Add->Effects->Particles) so then it was just playing with the settings to create the desirable smoke particle I wanted. I made 3 particles in the hierchy using duplicating and with a little positioning and rotating I put them up to the buildings as I wanted them.<br>
+
+<br>Aside the smoke particles, I wanted to make a spark particle as I had many light lamps in my scene (and some of them didn't work so there was a reason lol) so in the VFX  file in the assets I made a, effect file and as shown in the tutorial i renamed it to SPARKS. I created new nodes from the SYSTEM menu and then i just played with the settings, trying to figure what did what and how i could make it like i imagined it. After the particles were right, I putted them in a lamp where i would later focus my camera on as a scene to the timeline. So with 3 smoke particles of method one and a spark particle of method 2, the VFX was over.<br>
+
+<br>SFX<br>
+
+<br>For the sound, I downloaded some city sounds from youtube converted the file to .wav and imported it to a folder named SFX I made in the assets folder. I followed the settings as shown in the unit7 tutorial and managed to have the background music playing while the scene rolled. I went ahead and made an audio mixer to chenge the background music in some places with the 222222 effect. Later, I downloaded another audio file with the same method, and I made a mixer for it too. TO BE CONTINUED<br>
+# 3rd Deliverable
 
 # Conclusions
 

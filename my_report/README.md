@@ -11,7 +11,7 @@
 
 # Summary
 
-<h2>So as I said before, this is an animation project using the Unity programm. The theme I was going for is a city resembling NYC. If you'll look at the mp4 videos of each deliverable you will see that some props that were not supposed to be there for the 1st deliverable are shown, that's because I went ahead and started putting props and details that are not required for the requirements for the 1st deliverable. Makes sense? Basically I stayed and built a lot of stuff before i made the 1st mp4.</n>
+<br>So as I said before, this is an animation project using the Unity programm. The theme I was going for is a city resembling NYC. If you'll look at the mp4 videos of each deliverable you will see that some props that were not supposed to be there for the 1st deliverable are shown, that's because I went ahead and started putting props and details that are not required for the requirements for the 1st deliverable. Makes sense? Basically I stayed and built a lot of stuff before i made the 1st mp4.<br>
 <br>![buildings_screenshot2](https://user-images.githubusercontent.com/100948882/224729836-746a3a69-9dec-4bcb-b7db-8fa6a9fee748.png)<br>
 
 <br>![top](https://user-images.githubusercontent.com/100948882/224729877-dce1c00c-112b-4aa2-8537-2610513286e2.png)<br>
@@ -132,7 +132,7 @@ https://user-images.githubusercontent.com/100948882/228452118-d6cea705-4374-4534
 
 <br>I changed the spotlights in the bulbs with the same mindset, changing the range and the lens? and casting the setting to important. I had a problem with this, as the lights would not show everytime, seeing it was affected by each other. So that is why some lights show and some not.<br>
 
-<br>I wanted to make a lamp go on and off, so I put the spotlight of that lamp in the timline as an activation track. I scaled down the active time and duplicated so the lamp went on and off.<br>
+<br>I wanted to make a lamp go on and off, so I put the spotlight of that lamp in the timline as an activation track. I scaled down the active time and duplicated so the lamp went on and off.<br></n>
 <br>![lamp timeline](https://user-images.githubusercontent.com/100948882/236503294-17e6ec7f-dfa7-45be-9895-7087a5d07d13.png)<br>
 
 

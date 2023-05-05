@@ -132,11 +132,28 @@ https://user-images.githubusercontent.com/100948882/228452118-d6cea705-4374-4534
 
 <br>I changed the spotlights in the bulbs with the same mindset, changing the range and the lens? and casting the setting to important. I had a problem with this, as the lights would not show everytime, seeing it was affected by each other. So that is why some lights show and some not.<br>
 
+<br>I wanted to make a lamp go on and off, so I put the spotlight of that lamp in the timline as an activation track. I scaled down the active time and duplicated so the lamp went on and off.<br>
+<br>![lamp timeline](https://user-images.githubusercontent.com/100948882/236503294-17e6ec7f-dfa7-45be-9895-7087a5d07d13.png)<br>
+
+
 <br>VFX<br>
 
 <br>For the VFX I used both methods shown in the unit7 tutorial. I made a VFX file in the assets and one in the hierarchy. I wanted to make a smoke particle, so I followed the tutorial (Add->Effects->Particles) so then it was just playing with the settings to create the desirable smoke particle I wanted. I made 3 particles in the hierchy using duplicating and with a little positioning and rotating I put them up to the buildings as I wanted them.<br>
+<br>![smoke scene all](https://user-images.githubusercontent.com/100948882/236505404-be13b536-d0fa-427b-9845-d7bdfcd03b54.png)<br>
+<br>![smoke settings](https://user-images.githubusercontent.com/100948882/236505420-43ea9b1b-a401-4929-aa69-a6b9a5cd3c45.png)<br>
 
-<br>Aside the smoke particles, I wanted to make a spark particle as I had many light lamps in my scene (and some of them didn't work so there was a reason lol) so in the VFX  file in the assets I made a, effect file and as shown in the tutorial i renamed it to SPARKS. I created new nodes from the SYSTEM menu and then i just played with the settings, trying to figure what did what and how i could make it like i imagined it. After the particles were right, I putted them in a lamp where i would later focus my camera on as a scene to the timeline. So with 3 smoke particles of method one and a spark particle of method 2, the VFX was over.<br>
+
+<br>Aside the smoke particles, I wanted to make a spark particles in the lamp that was blinking. In the VFX  file in the assets I made an effect file and as shown in the tutorial and renamed it to SPARKS.<br>
+<br>![vfx](https://user-images.githubusercontent.com/100948882/236504087-04328fa0-0f7e-4461-9360-63de9f9260af.png)
+![sparks file](https://user-images.githubusercontent.com/100948882/236504172-7037b382-4f28-4868-afa5-aa0c5d040dc4.png)
+
+
+<br>I created new nodes from the SYSTEM menu and then i just played with the settings, trying to figure what did what and how i could make it like i imagined it.<br> 
+
+<br>![sparks_settings](https://user-images.githubusercontent.com/100948882/236504520-60720f7a-895c-4389-93f8-ee2f791d3738.png)
+
+
+<br>After the particles were right, I putted them in a lamp where i would later focus my camera on as a scene to the timeline. So with 3 smoke particles of method one and a spark particle of method 2, the VFX was over.<br>
 
 <br>SFX<br>
 

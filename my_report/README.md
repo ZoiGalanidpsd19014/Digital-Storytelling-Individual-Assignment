@@ -11,12 +11,12 @@
 
 # Summary
 
-So as I said before, this is an animation project using the Unity programm. The theme I was going for is a city resembling NYC. If you'll look at the mp4 videos of each deliverable you will see that some props that were not supposed to be there for the 1st deliverable are shown, that's because I went ahead and started putting props and details that are not required for the requirements for the 1st deliverable. Makes sense? Basically I stayed and built a lot of stuff before i made the 1st mp4.</n>
+<h2>So as I said before, this is an animation project using the Unity programm. The theme I was going for is a city resembling NYC. If you'll look at the mp4 videos of each deliverable you will see that some props that were not supposed to be there for the 1st deliverable are shown, that's because I went ahead and started putting props and details that are not required for the requirements for the 1st deliverable. Makes sense? Basically I stayed and built a lot of stuff before i made the 1st mp4.</n>
 <br>![buildings_screenshot2](https://user-images.githubusercontent.com/100948882/224729836-746a3a69-9dec-4bcb-b7db-8fa6a9fee748.png)<br>
 
 <br>![top](https://user-images.githubusercontent.com/100948882/224729877-dce1c00c-112b-4aa2-8537-2610513286e2.png)<br>
 
-# 1st Deliverable
+<h3># 1st Deliverable</h3>
 
 <h2><strong>UNIT_2</strong></h2>
 
@@ -124,9 +124,9 @@ https://user-images.githubusercontent.com/100948882/228452118-d6cea705-4374-4534
 
 
 
-# 2nd Deliverable
+<h3># 2nd Deliverable</h3>
 
-<br>LIGHTS<br>
+<br><h4>LIGHTS</h4><br>
 
 <br>For the second deliverable, I started with the lights from Unit 6. I deleted the directional light from the scene, but even then, the lighting was not as dark as i wanted, so I went Window>Rendering>Lighting>Environment to change the settings there and chose an environment that was darker, like the one used in the class's units. After that, I closed the light bulb from the scene and started adding lights to my scene. I made a folder named LIGHTS and started by adding point lights. I made a few, played with the range, color and intensity and put them at the streets close to the buildings. I made sure to change the setting from auto to important because else the light would not show in the scene.<br>
 
@@ -136,7 +136,7 @@ https://user-images.githubusercontent.com/100948882/228452118-d6cea705-4374-4534
 <br>![lamp timeline](https://user-images.githubusercontent.com/100948882/236503294-17e6ec7f-dfa7-45be-9895-7087a5d07d13.png)<br>
 
 
-<br>VFX<br>
+<br><h4>VFX</h4><br>
 
 <br>For the VFX I used both methods shown in the unit7 tutorial. I made a VFX file in the assets and one in the hierarchy. I wanted to make a smoke particle, so I followed the tutorial (Add->Effects->Particles) so then it was just playing with the settings to create the desirable smoke particle I wanted. I made 3 particles in the hierchy using duplicating and with a little positioning and rotating I put them up to the buildings as I wanted them.<br>
 <br>![smoke scene all](https://user-images.githubusercontent.com/100948882/236505404-be13b536-d0fa-427b-9845-d7bdfcd03b54.png)<br>
@@ -155,7 +155,7 @@ https://user-images.githubusercontent.com/100948882/228452118-d6cea705-4374-4534
 
 <br>After the particles were right, I putted them in a lamp where i would later focus my camera on as a scene to the timeline. So with 3 smoke particles of method one and a spark particle of method 2, the VFX was over.<br>
 
-<br><h3>SFX<h3><br>
+<h4><br>SFX<br></h4>
 
 <br>For the sound, I downloaded some city sounds from youtube converted the file to .wav and imported it to a folder named SFX I made in the assets folder.<br>
  <br>![sfx](https://user-images.githubusercontent.com/100948882/236505874-c60fb0b8-200d-49b3-a408-a75235f1e9dd.png)
@@ -171,7 +171,7 @@ https://user-images.githubusercontent.com/100948882/228452118-d6cea705-4374-4534
  <br>Later, I downloaded another audio file with the same method, and I made a mixer for it too. <br>
  
  
-# 3rd Deliverable
+<h3># 3rd Deliverable</h3>
 
 # Conclusions
 

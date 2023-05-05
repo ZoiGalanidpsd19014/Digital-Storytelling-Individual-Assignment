@@ -153,7 +153,7 @@ https://user-images.githubusercontent.com/100948882/228452118-d6cea705-4374-4534
 <br>![sparks_settings](https://user-images.githubusercontent.com/100948882/236504520-60720f7a-895c-4389-93f8-ee2f791d3738.png)
 
 
-<br>After the particles were right, I putted them in a lamp where i would later focus my camera on as a scene to the timeline. So with 3 smoke particles of method one and a spark particle of method 2, the VFX was over.<br>
+<br>After the particles were right, I putted them in a lamp where i would later focus my camera on as a scene to the timeline. So with 3 smoke particles with method one and a spark particle with method 2, the VFX part was over.<br>
 
 <h4><br>SFX<br></h4>
 
@@ -168,8 +168,23 @@ https://user-images.githubusercontent.com/100948882/228452118-d6cea705-4374-4534
  <br>I went ahead and made an audio mixer to chenge the background music in some places with the parameq effect.<br>
  
 <br>![mixer1 settings](https://user-images.githubusercontent.com/100948882/236507133-09e2e9f2-57af-472f-a10e-9e8d3077a310.png)<br>
- <br>Later, I downloaded another audio file with the same method, and I made a mixer for it too. <br>
+ <br>Later, I downloaded another audio file with the same method, and I made a mixer for it too. I applied the echo and lowpass effects.<br>
+ <br>![mixer 2](https://user-images.githubusercontent.com/100948882/236512132-a380348f-a1e9-4b3e-b886-52911d013fc8.png)<br>
  
+ 
+ <br><h3>Cinemacine Camera</h3><br>
+ 
+ <br>For the cinemacine part, I downloaded from the package manager the cinemacine pack. I then went to the camera and added the component "cinemachine brain".<br> 
+<br>![cinemachine brain](https://user-images.githubusercontent.com/100948882/236513065-8edacd62-b07b-41d9-8805-5cce9d54bf2f.png)<br>
+<Then I created some virtual cameras in the hierarchy.<br>
+<br>![creat virtual camera](https://user-images.githubusercontent.com/100948882/236513805-68a96686-ebbf-4bc3-9d21-ddf3d4b2d9a9.png)<br>
+<br>![virtual camera](https://user-images.githubusercontent.com/100948882/236513675-8e8d9026-a750-420b-8933-ad38980f7c96.png)<br>
+<br>![timeline virtual camera](https://user-images.githubusercontent.com/100948882/236514137-9e973c22-8ae3-4a0f-83c8-b8f5a0e225c6.png)<br>
+
+<br>I recorded a timeline section with each virtual camera using the camera shots. In virtual camera 3, instead of doing the snapshot, I put the car in my scene at the FOLLOW and LOOK AT option, so the camera could follow the car from behind.<br>
+<br>![CAR CAMERA](https://user-images.githubusercontent.com/100948882/236516169-f5ebea95-3c25-47cb-b7a7-a1e4ac5d745b.png)<br>
+<br>![CAR CAMERA SCENE](https://user-images.githubusercontent.com/100948882/236516178-2c4aefad-1afe-4cc6-b3d2-767f609bffa0.png)<br>
+
  
 <h3># 3rd Deliverable</h3>
 

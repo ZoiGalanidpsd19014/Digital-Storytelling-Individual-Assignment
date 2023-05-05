@@ -155,9 +155,22 @@ https://user-images.githubusercontent.com/100948882/228452118-d6cea705-4374-4534
 
 <br>After the particles were right, I putted them in a lamp where i would later focus my camera on as a scene to the timeline. So with 3 smoke particles of method one and a spark particle of method 2, the VFX was over.<br>
 
-<br>SFX<br>
+<br><h3>SFX<h3><br>
 
-<br>For the sound, I downloaded some city sounds from youtube converted the file to .wav and imported it to a folder named SFX I made in the assets folder. I followed the settings as shown in the unit7 tutorial and managed to have the background music playing while the scene rolled. I went ahead and made an audio mixer to chenge the background music in some places with the 222222 effect. Later, I downloaded another audio file with the same method, and I made a mixer for it too. TO BE CONTINUED<br>
+<br>For the sound, I downloaded some city sounds from youtube converted the file to .wav and imported it to a folder named SFX I made in the assets folder.<br>
+ <br>![sfx](https://user-images.githubusercontent.com/100948882/236505874-c60fb0b8-200d-49b3-a408-a75235f1e9dd.png)
+![sfx files](https://user-images.githubusercontent.com/100948882/236506033-b48b7549-7ce2-45d3-a802-72e94ba7aa9b.png)<br>
+
+ <br>I followed the settings as shown in the unit7 tutorial and managed to have the background music playing while the scene rolled.<br>
+ ![sfx hierarchy](https://user-images.githubusercontent.com/100948882/236506565-dbad5ed2-39c2-4960-bdeb-3f643038eb89.png)
+![audio settings](https://user-images.githubusercontent.com/100948882/236506598-bd0bcb5f-614c-48d2-a9e2-06899754958a.png)<br>
+
+ <br>I went ahead and made an audio mixer to chenge the background music in some places with the parameq effect.<br>
+ 
+<br>![mixer1 settings](https://user-images.githubusercontent.com/100948882/236507133-09e2e9f2-57af-472f-a10e-9e8d3077a310.png)<br>
+ <br>Later, I downloaded another audio file with the same method, and I made a mixer for it too. <br>
+ 
+ 
 # 3rd Deliverable
 
 # Conclusions

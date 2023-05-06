@@ -210,19 +210,19 @@ For the timeline sequence I put the image:<br>
 
 <br>![imagetimline](https://user-images.githubusercontent.com/100948882/236619681-a48403f5-d2be-4a9c-bbe3-6e1290ac2756.png)<br>
 
-
+<br> (For the Unit5 deliverable, I deleted the VFX, SFX, LIGHTS, TITLE, IMAGE in order to record it. For Unit6, I recorded the scene with normal camera view, no cinamchine. For Unit7, of course I applied all the above.)<br>
 
 <br><h2>DAILIES</h2><br>
 
 
-<br>https://user-images.githubusercontent.com/100948882/236618447-58628da2-e346-40e4-8097-cccb7c654f8e.mp4<br>
+https://user-images.githubusercontent.com/100948882/236618447-58628da2-e346-40e4-8097-cccb7c654f8e.mp4
 
 
-<br>https://user-images.githubusercontent.com/100948882/236618468-cb75193d-1501-46d8-9e5c-08c31ea5bb2c.mp4<br>
+https://user-images.githubusercontent.com/100948882/236618468-cb75193d-1501-46d8-9e5c-08c31ea5bb2c.mp4
 
 
 
-<br>https://user-images.githubusercontent.com/100948882/236618475-31f1936e-90a8-4ae2-954c-078c859d013d.mp4<br>
+https://user-images.githubusercontent.com/100948882/236618475-31f1936e-90a8-4ae2-954c-078c859d013d.mp4
 
 
 

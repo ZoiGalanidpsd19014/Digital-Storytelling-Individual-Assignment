@@ -185,6 +185,47 @@ https://user-images.githubusercontent.com/100948882/228452118-d6cea705-4374-4534
 <br>![CAR CAMERA](https://user-images.githubusercontent.com/100948882/236516169-f5ebea95-3c25-47cb-b7a7-a1e4ac5d745b.png)<br>
 <br>![CAR CAMERA SCENE](https://user-images.githubusercontent.com/100948882/236516178-2c4aefad-1afe-4cc6-b3d2-767f609bffa0.png)<br>
 
+<br><h3>Titles & Fades</h3><br>
+
+<br>For the title I downloaded the Text Media Pro & Text Media Pro Extra (Fonts only). I went to Assets>TextMeshPro>Examples & Extras> Fonts and created a Font Asset on Bangers. Then I created an UI object in the hierarchy window for the TextMeshPro.<br>
+<br>![text_settings](https://user-images.githubusercontent.com/100948882/236619254-10130364-15b2-4c3d-acbe-fc6de2dba827.png)<br>
+<br>![text_settings2](https://user-images.githubusercontent.com/100948882/236619364-1b81fda1-88be-4a42-b8f6-22a0a1e57516.png)<br>
+<br>![text_settings_3](https://user-images.githubusercontent.com/100948882/236619365-e89fc44a-3520-433b-9edf-ee77e9b0931e.png)<br>
+<br>![title](https://user-images.githubusercontent.com/100948882/236619492-5bf056c8-d2e4-416d-8b7a-1a754b6e0c1b.png)<br>
+
+<br>I put the title in the sequence:<br>
+<br> Frame 0  -  Alpha 0<br>
+<br> Frame 20 - Alpha 250<br>
+<br> Frame 81 - Alpha 250<br>
+<br> Frame 89 - Alpha 0<br>
+<br>![title_timeline](https://user-images.githubusercontent.com/100948882/236619674-9aed954d-2dd6-4a21-bbd2-4d171478d612.png)<br>
+
+<br> For the fade in - fade out effect I put a black image on the hierarchy and in the settings I stretched it so it covered the whole game view.<br>
+<br>![imagesettings](https://user-images.githubusercontent.com/100948882/236619683-7c83bd97-2a28-41ac-b279-a4bf95573f64.png)<br>
+For the timeline sequence I put the image:<br>
+<br> Frame 0  -  Alpha 250<br>
+<br> Frame 10 - Alpha 0<br>
+<br> Frame 438 - Alpha 0<br>
+<br> Frame 466 - Alpha 250<br>
+
+<br>![imagetimline](https://user-images.githubusercontent.com/100948882/236619681-a48403f5-d2be-4a9c-bbe3-6e1290ac2756.png)<br>
+
+
+
+<br><h2>DAILIES</h2><br>
+
+
+<br>https://user-images.githubusercontent.com/100948882/236618447-58628da2-e346-40e4-8097-cccb7c654f8e.mp4<br>
+
+
+<br>https://user-images.githubusercontent.com/100948882/236618468-cb75193d-1501-46d8-9e5c-08c31ea5bb2c.mp4<br>
+
+
+
+<br>https://user-images.githubusercontent.com/100948882/236618475-31f1936e-90a8-4ae2-954c-078c859d013d.mp4<br>
+
+
+
  
 <h3># 3rd Deliverable</h3>
 

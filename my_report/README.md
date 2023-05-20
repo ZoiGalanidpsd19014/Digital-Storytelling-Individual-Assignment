@@ -229,16 +229,27 @@ https://user-images.githubusercontent.com/100948882/236618475-31f1936e-90a8-4ae2
  
 <h3># 3rd Deliverable</h3>
 
+<br> For the last deliverable, I decided to apply a last VFX with an SFX pair, which are a rainfall ParticleSystem and a rain/thunder SoundEffect. I made a particle system in the VFX hierarchy and renamed it Rainfall. Then I made these settings:<br>
+![rainfall_settings](https://github.com/ZoiGalanidpsd19014/Digital-Storytelling-Individual-Assignment/assets/100948882/53d08150-650f-4c45-9aae-de43c292f893)<br>
+![rainfall_settings2](https://github.com/ZoiGalanidpsd19014/Digital-Storytelling-Individual-Assignment/assets/100948882/b2405696-a576-4a52-b80e-9214ee132c50)<br>
+![rain](https://github.com/ZoiGalanidpsd19014/Digital-Storytelling-Individual-Assignment/assets/100948882/753b6cec-f045-4ae7-9fe9-c000c7602fa8)<br>
+
+Then for the SFX I went to youtube and found a video with the sound effect I wanted (link down) and after converting it to a wav file, I imported it to the SFX folder like the other audios. I made a new audio source and put the file there. I played around with the volume in the 3 audios, since i didn't wante them all equally loud.<br>
+![rainsfx](https://github.com/ZoiGalanidpsd19014/Digital-Storytelling-Individual-Assignment/assets/100948882/5645b330-31c8-40b9-a3ef-426ae2cef8cc)<br>
+
+
+I made changes on the enviroment too, chainging the lighting, the fog etc.
+![lighting_enviroment](https://github.com/ZoiGalanidpsd19014/Digital-Storytelling-Individual-Assignment/assets/100948882/dd03779c-6a6c-427c-981c-679c7acfbcf2)<br>
 # Conclusions
 
 
 # Sources
 BUS PROP (bus):
-https://assetstore.unity.com/packages/3d/vehicles/land/uaa-city-props-vehicles-120339
+https://assetstore.unity.com/packages/3d/vehicles/land/uaa-city-props-vehicles-120339<br>
 PARK PROPS (benches, trees, grass):
-https://assetstore.unity.com/packages/3d/props/parks-and-nature-pack-lite-77362
+https://assetstore.unity.com/packages/3d/props/parks-and-nature-pack-lite-77362<br>
 CARS:
-https://assetstore.unity.com/packages/3d/vehicles/land/stylized-vehicles-pack-free-150318
+https://assetstore.unity.com/packages/3d/vehicles/land/stylized-vehicles-pack-free-150318<br>
 Music SFX https://www.youtube.com/watch?v=RrBFxFZmWlY<br>
 Rain SFX https://www.youtube.com/watch?v=7Vc4-FDGBxo<br>
 Background SFX https://www.youtube.com/watch?v=N9jSdfxCdeE<br>

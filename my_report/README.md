@@ -244,7 +244,14 @@ Then for the SFX I went to youtube and found a video with the sound effect I wan
 
 I made changes on the enviroment too, chainging the lighting, the fog etc.<br>
 ![lighting_enviroment](https://github.com/ZoiGalanidpsd19014/Digital-Storytelling-Individual-Assignment/assets/100948882/dd03779c-6a6c-427c-981c-679c7acfbcf2)<br>
- #Conclusions
+
+<h3>DAILY</h3>
+
+
+https://github.com/ZoiGalanidpsd19014/Digital-Storytelling-Individual-Assignment/assets/100948882/ca0669c9-9ac9-48b2-903d-16ac49afea9e<br>
+
+
+#Conclusions
  
  I am pretty happy with my project, some major stuff I would love to have done better are:<br>
  1) How to make better materials for the buildings, since in mine they are stretched and not in the right ratio.<br>

@@ -238,9 +238,19 @@ Then for the SFX I went to youtube and found a video with the sound effect I wan
 ![rainsfx](https://github.com/ZoiGalanidpsd19014/Digital-Storytelling-Individual-Assignment/assets/100948882/5645b330-31c8-40b9-a3ef-426ae2cef8cc)<br>
 
 
-I made changes on the enviroment too, chainging the lighting, the fog etc.
+![cityambience](https://github.com/ZoiGalanidpsd19014/Digital-Storytelling-Individual-Assignment/assets/100948882/225f30fa-633a-4438-80c3-fac955b98bf0)
+![music](https://github.com/ZoiGalanidpsd19014/Digital-Storytelling-Individual-Assignment/assets/100948882/9d090edf-3f2b-4079-932e-1fcc39b58e18)
+![rainaudio](https://github.com/ZoiGalanidpsd19014/Digital-Storytelling-Individual-Assignment/assets/100948882/2b16d2f5-77ff-4f17-a2f9-0fb933e8b832)<br>
+
+I made changes on the enviroment too, chainging the lighting, the fog etc.<br>
 ![lighting_enviroment](https://github.com/ZoiGalanidpsd19014/Digital-Storytelling-Individual-Assignment/assets/100948882/dd03779c-6a6c-427c-981c-679c7acfbcf2)<br>
-# Conclusions
+ #Conclusions
+ 
+ I am pretty happy with my project, some major stuff I would love to have done better are:<br>
+ 1) How to make better materials for the buildings, since in mine they are stretched and not in the right ratio.<br>
+ 2) How to use the audio mixer more effectively<br>
+ 3) How to apply particles with material in collision to the rain. (I've made the material and the settings for it, but it would show only pink squares that I think it has to do with the render pipeline idk).<br>
+
 
 
 # Sources

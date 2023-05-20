@@ -248,7 +248,10 @@ I made changes on the enviroment too, chainging the lighting, the fog etc.<br>
 <h3>DAILY</h3>
 
 
-https://github.com/ZoiGalanidpsd19014/Digital-Storytelling-Individual-Assignment/assets/100948882/ca0669c9-9ac9-48b2-903d-16ac49afea9e<br>
+
+https://github.com/ZoiGalanidpsd19014/Digital-Storytelling-Individual-Assignment/assets/100948882/19e7914e-6300-43d8-adbb-64286cc69112
+
+
 
 
 #Conclusions
